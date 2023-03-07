@@ -9,11 +9,15 @@ Grab your API key from [TMDB](https://www.themoviedb.org/).
 
 ## Screenshots
 
-![Screenshot](ss1.png)
-![Screenshot](ss2.png)
-![Screenshot](ss3.png)
-![Screenshot](ss4.png)
-![Screenshot](ss5.png)
-![Screenshot](ss6.png)
-![Screenshot](ss7.png)
-![Screenshot](ss8.png)
+
+<img src="ss1.png"  width="320" height="550">     <img src="ss2.png"  width="320" height="550">      <img src="ss3.png"  width="320" height="550">
+
+
+
+<img src="ss4.png"  width="320" height="550">     <img src="ss5.png"  width="320" height="550">      <img src="ss6.png"  width="320" height="550">
+
+
+
+<img src="ss7.png"  width="320" height="550">     <img src="ss8.png"  width="320" height="550">
+
+
